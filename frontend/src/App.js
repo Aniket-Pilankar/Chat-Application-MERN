@@ -1,14 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
 import { Button } from '@chakra-ui/react';
+import AllRoutes from './Components/AllRoutes';
 
 function App() {
   return (
     <div className="App">
-      {/* <Button colorScheme='blue'>Button</Button> */}
-      <h1>Hello</h1>
-      <Button colorScheme='blue'>Button</Button>
-      <Button colorScheme='blue'>Button</Button>
+      <AllRoutes />
     </div>
   );
 }
