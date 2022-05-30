@@ -21,9 +21,12 @@
     "@chakra-ui/react": "^2.0.2",
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
+    "bcryptjs": "^2.4.3",
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
+    "express-async-handler": "^1.2.0",
     "framer-motion": "^6.3.3",
+    "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.3.4"
   }
 }
